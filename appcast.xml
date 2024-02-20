@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BlurData</title>
+        <item>
+            <title>1</title>
+            <pubDate>Tue, 20 Feb 2024 17:45:40 +0100</pubDate>
+            <sparkle:version>0.1</sparkle:version>
+            <sparkle:shortVersionString>1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://iancona.github.io/blurdata/BlurData.dmg" length="2568703" type="application/octet-stream" sparkle:edSignature="7+0ndFcT9java5VLraDc0g3ciSGULKyVHghDu/vZdhNMOHR/czDMGNM7UcxwVYcxUfIn4pAGQABZZF8Vn8OXCw=="/>
+        </item>
+    </channel>
+</rss>
