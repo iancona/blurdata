@@ -1,14 +1,17 @@
+
+
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>BlurData</title>
         <item>
-            <title>7</title>
-            <pubDate>Fri, 04 Oct 2024 23:49:47 +0200</pubDate>
-            <sparkle:version>0.7</sparkle:version>
-            <sparkle:shortVersionString>7</sparkle:shortVersionString>
+            <title>9</title>
+            <pubDate>Sat, 11 Jan 2025 17:21:10 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData.dmg" length="2740899" type="application/octet-stream" sparkle:edSignature="TAArgnC1KpMDsit+EwOCdGg6+TM+L2HyLQGUkoPsSZcTlZN1f0w/fFWxYzBeMJ204xV26EMpb/LjZq6L1QiaAQ=="/>
+            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData.dmg" length="2848944" type="application/octet-stream" sparkle:edSignature="Z0ggEQeu9ZwYFwZLRSZMhwkJZOmXwSwJBmrxBSgdsysnfuEXN+Cmk3vmYAM+MdVnmaHY+xDrQYvJCeoOzuT4BA=="/>
         </item>
     </channel>
 </rss>
+
