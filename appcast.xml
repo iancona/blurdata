@@ -8,7 +8,7 @@
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData12.dmg" length="8563939" type="application/octet-stream" sparkle:edSignature="LG28PxXGdrc5xRdtm35yo0ksb8n0/SW2yXItJS/XGf2qDdlquGB8gO+ijJlQRXJQ7bSIeT3fHF/GNFULabDABg=="/>
+            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData-12.dmg" length="8563939" type="application/octet-stream" sparkle:edSignature="LG28PxXGdrc5xRdtm35yo0ksb8n0/SW2yXItJS/XGf2qDdlquGB8gO+ijJlQRXJQ7bSIeT3fHF/GNFULabDABg=="/>
         </item>
     </channel>
 </rss>
