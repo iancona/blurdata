@@ -3,12 +3,12 @@
     <channel>
         <title>BlurData</title>
         <item>
-            <title>12</title>
-            <pubDate>Tue, 30 Dec 2025 11:24:47 +0100</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>12</sparkle:shortVersionString>
+            <title>13</title>
+            <pubDate>Tue, 30 Dec 2025 12:24:26 +0100</pubDate>
+            <sparkle:version>1.3</sparkle:version>
+            <sparkle:shortVersionString>13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData-12.dmg" length="8604704" type="application/octet-stream" sparkle:edSignature="tBdfw5ubM9RGvsB9oN8TSFQL8H5qYHWPqx5SOZ81Cl23FH2qWAOjwMAfA2qMd1sQNRYjVtTq5hEXxX237sK9Cw=="/>
+            <enclosure url="https://iancona.github.io/blurdata/BlurData-1.3.dmg" length="8606754" type="application/octet-stream" sparkle:edSignature="bVB3vgp0Dq/VGI85HioGk/8LEgBOodLUMWVyh3fHaNkoQRYnb/RKN0f/O9GQkiYvh90x66VbuUHx9a8zdL02Ag=="/>
         </item>
     </channel>
 </rss>
