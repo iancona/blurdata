@@ -4,6 +4,14 @@
         <title>BlurData</title>
         <item>
             <title>1.2</title>
+            <pubDate>Mon, 30 Mar 2026 14:09:03 +0200</pubDate>
+            <sparkle:version>1.8</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData-1.2.dmg" length="8633235" type="application/octet-stream" sparkle:edSignature="Hc5wfVWtPJ4U98qyJwa/fXihV+xdnsouOWDqyFll/xttxVl5Un8rVbpftwOmNVrHdxhtwJGJQaTFIG6kxMvRAQ=="/>
+        </item>
+        <item>
+            <title>1.2</title>
             <pubDate>Mon, 30 Mar 2026 10:55:28 +0200</pubDate>
             <sparkle:version>1.7</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
