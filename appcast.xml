@@ -8,7 +8,7 @@
             <sparkle:version>1.8</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData-1.2.dmg" length="8633235" type="application/octet-stream" sparkle:edSignature="Hc5wfVWtPJ4U98qyJwa/fXihV+xdnsouOWDqyFll/xttxVl5Un8rVbpftwOmNVrHdxhtwJGJQaTFIG6kxMvRAQ=="/>
+            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8633235" type="application/octet-stream" sparkle:edSignature="Hc5wfVWtPJ4U98qyJwa/fXihV+xdnsouOWDqyFll/xttxVl5Un8rVbpftwOmNVrHdxhtwJGJQaTFIG6kxMvRAQ=="/>
         </item>
         <item>
             <title>1.2</title>
@@ -16,7 +16,7 @@
             <sparkle:version>1.7</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData-1.2.dmg" length="8633222" type="application/octet-stream" sparkle:edSignature="3/wf4iIKuBtT7sYKj4JgQw67X7mW+FOWgu+VZfkbvH0ZDQaWibtN270dqXRUpI5YP6G14kqKcOWYZ13GEHqjAg=="/>
+            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8633222" type="application/octet-stream" sparkle:edSignature="3/wf4iIKuBtT7sYKj4JgQw67X7mW+FOWgu+VZfkbvH0ZDQaWibtN270dqXRUpI5YP6G14kqKcOWYZ13GEHqjAg=="/>
         </item>
         <item>
             <title>1.2</title>
@@ -24,7 +24,7 @@
             <sparkle:version>1.6</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData-1.2.dmg" length="8634947" type="application/octet-stream" sparkle:edSignature="E4H46GcgcD70dmPVgUV4S0AiB+3sWrUmJX/NYRDs5v40HdcJI8Ls6LhtfFx5Jgdl+v9cjzau6S/YobOsS4JzBQ=="/>
+            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8634947" type="application/octet-stream" sparkle:edSignature="E4H46GcgcD70dmPVgUV4S0AiB+3sWrUmJX/NYRDs5v40HdcJI8Ls6LhtfFx5Jgdl+v9cjzau6S/YobOsS4JzBQ=="/>
         </item>
     </channel>
 </rss>
