@@ -4,6 +4,14 @@
         <title>BlurData</title>
         <item>
             <title>1.2</title>
+            <pubDate>Mon, 30 Mar 2026 18:31:26 +0200</pubDate>
+            <sparkle:version>1.9</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iancona/blurdata/releases/download/prod/BlurData-1.2.dmg" length="8637598" type="application/octet-stream" sparkle:edSignature="f72m3AA0+Zstu44CVgaVhiSgV9FsOPsMRY+69atSZRgGBcabm+xfPkZ69yrN62jitcbgg+E9GU3KdCrkMPG8Cg=="/>
+        </item>
+        <item>
+            <title>1.2</title>
             <pubDate>Mon, 30 Mar 2026 14:09:03 +0200</pubDate>
             <sparkle:version>1.8</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8633222" type="application/octet-stream" sparkle:edSignature="3/wf4iIKuBtT7sYKj4JgQw67X7mW+FOWgu+VZfkbvH0ZDQaWibtN270dqXRUpI5YP6G14kqKcOWYZ13GEHqjAg=="/>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Mon, 30 Mar 2026 09:48:00 +0200</pubDate>
-            <sparkle:version>1.6</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8634947" type="application/octet-stream" sparkle:edSignature="E4H46GcgcD70dmPVgUV4S0AiB+3sWrUmJX/NYRDs5v40HdcJI8Ls6LhtfFx5Jgdl+v9cjzau6S/YobOsS4JzBQ=="/>
         </item>
     </channel>
 </rss>
