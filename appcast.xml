@@ -3,12 +3,23 @@
     <channel>
         <title>BlurData</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Sun, 17 May 2026 00:54:23 +0200</pubDate>
+            <sparkle:version>2.1</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://iancona.github.io/blurdata/BlurData.dmg" length="3238654" type="application/octet-stream" sparkle:edSignature="gdrqcoptyDB46bhLb93gkKQ+X2ajM0mhifNaLkZdMbekQo08KJXeAsSOdgUeIp694P3RGdZxWCt++sfvInHwDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://iancona.github.io/blurdata/BlurData2.1-2.0.delta" sparkle:deltaFrom="2.0" length="471330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862896" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m4k4bLeV9CJcqjNlYqtFpssfnFOjSYzqDe1WH1nlef8L5wwGt5OXQcp6yTxN+EqQpZRjaNURYvTJ3cnESarTDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Tue, 31 Mar 2026 16:00:19 +0200</pubDate>
             <sparkle:version>2.0</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8676433" type="application/octet-stream" sparkle:edSignature="9gX9vMTNYP1/rTDjRvTfKh008xsM8WLnm0EQjydii2u3OVxBkZWfzJs1OtTtc3Aonmo7aB4YuBaId+E7y9YIDw=="/>
+            <enclosure url="https://iancona.github.io/blurdata/BlurData-1.2.dmg" length="8676433" type="application/octet-stream" sparkle:edSignature="9gX9vMTNYP1/rTDjRvTfKh008xsM8WLnm0EQjydii2u3OVxBkZWfzJs1OtTtc3Aonmo7aB4YuBaId+E7y9YIDw=="/>
         </item>
         <item>
             <title>1.2</title>
@@ -17,14 +28,6 @@
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8637598" type="application/octet-stream" sparkle:edSignature="f72m3AA0+Zstu44CVgaVhiSgV9FsOPsMRY+69atSZRgGBcabm+xfPkZ69yrN62jitcbgg+E9GU3KdCrkMPG8Cg=="/>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Mon, 30 Mar 2026 14:09:03 +0200</pubDate>
-            <sparkle:version>1.8</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/blurdata" length="8633235" type="application/octet-stream" sparkle:edSignature="Hc5wfVWtPJ4U98qyJwa/fXihV+xdnsouOWDqyFll/xttxVl5Un8rVbpftwOmNVrHdxhtwJGJQaTFIG6kxMvRAQ=="/>
         </item>
     </channel>
 </rss>
