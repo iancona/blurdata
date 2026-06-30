@@ -3,6 +3,14 @@
     <channel>
         <title>BlurData</title>
         <item>
+            <title>1.4.5</title>
+            <pubDate>Sun, 17 May 2026 00:54:23 +0200</pubDate>
+            <sparkle:version>2.7</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://iancona.github.io/blurdata/BlurData.dmg" length="3418150" type="application/octet-stream" sparkle:edSignature="XbUlOe5H0tQr8aWeo19EmYdss42rwiq0SvAgrWaggSpjl8Sm0AfyfK+G0CRIM5LvYbOlVRg1wwYPNLhzGXHgBg=="/>
+        </item>
+        <item>
             <title>1.4.4</title>
             <pubDate>Sun, 17 May 2026 00:54:23 +0200</pubDate>
             <sparkle:version>2.6</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://iancona.github.io/blurdata/BlurData.dmg" length="3401852" type="application/octet-stream" sparkle:edSignature="VbsXu+XnNxwpigc5lt+TfiEcZTxi42llxduCv/TUi/gAADuWKfOgjqoGBztY26HgmsLX3hFmX3viu+ysPkNGCQ=="/>
-        </item>
-        <item>
-            <title>1.4.2</title>
-            <pubDate>Sun, 17 May 2026 00:54:23 +0200</pubDate>
-            <sparkle:version>2.4</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://iancona.github.io/blurdata/BlurData.dmg" length="3395738" type="application/octet-stream" sparkle:edSignature="LYmtd4cjtmGt5TkOhQcxJs74TT2xKItixs18IuS5STNOZ1i5JHSGunThW4TMkEoPxzqD00kaBY2GF7+qZEt7CQ=="/>
         </item>
     </channel>
 </rss>
