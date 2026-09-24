@@ -3,6 +3,14 @@
     <channel>
         <title>BlurData</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Sun, 17 May 2026 00:54:23 +0200</pubDate>
+            <sparkle:version>3.8</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/BlurData.dmg" length="4026553" type="application/octet-stream" sparkle:edSignature="DmM+BWYMJPZmPzd5IFrGqZDOElIzzwe5wcuAJD+kop2ay+/GEy0VelK9KUg1Gi29WrVwZ083CllwE7DFLc9YAQ=="/>
+        </item>
+        <item>
             <title>1.5.5</title>
             <pubDate>Sun, 17 May 2026 00:54:23 +0200</pubDate>
             <sparkle:version>3.7</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/BlurData.dmg" length="3667599" type="application/octet-stream" sparkle:edSignature="S03QQ0l9PoyCCwDFIrx7u8pLDMkEPWwKfSrThf6cyXE/BEOPAfSi6+n4TM/1FM/czWqd+mvTBJIJtVjoUes/Bw=="/>
-        </item>
-        <item>
-            <title>1.5.3</title>
-            <pubDate>Sun, 17 May 2026 00:54:23 +0200</pubDate>
-            <sparkle:version>3.5</sparkle:version>
-            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://mailreply-c09faec98f4b.herokuapp.com/download/BlurData.dmg" length="3603633" type="application/octet-stream" sparkle:edSignature="6Ivxbo5Czjq5nJJPh8+6/2Atvt3sMrrD0SHOG3QQMmnwHuZ/cxv4BtMT/O1BpeR/r0RMXeKp1lBqViXZOiv7Dg=="/>
         </item>
         <item>
             <title>1.4.5</title>
